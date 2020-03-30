@@ -1,0 +1,13 @@
+﻿order_id,customer_id,customer_payment_method,order_status_code,order_date,paid_date,der_total_order_price,other_order_detail,ship_date
+O00001,C00001,Cashier's check,Pending,20-Oct-16,,$478 ,,
+O00002,C00002,Cash,Being Parked,20-Oct-16,2-Nov-16,$300 ,,2-Nov-16
+O00003,C00003,Credit Card,Being Parked,20-Oct-16,26-Oct-17,$178 ,,27-Oct-17
+O00004,C00002,Cash,Being Parked,15-Nov-16,18-Nov-16,$160 ,,18-Nov-16
+O00005,C00004,Cashier's check,Declined,16-Nov-16,,$289 ,,
+O00006,C00001,Cash,Processing,17-Nov-16,16-Feb-17,$549 ,,
+O00007,C00006,Credit Card,Being Parked,18-Nov-16,16-Feb-17,$200 ,,16-Feb-17
+O00008,C00007,Credit Card,Pending,16-Jan-17,,$435 ,,
+O00009,C00001,Credit Card,Canceled,17-Jan-17,,"$1,740 ",,
+O00010,C00004,Cashier's check,Declined,18-Jan-17,,$260 ,,
+O00011,C00003,Cash,Being Parked,20-Feb-17,20-Feb-17,$255 ,,20-Feb-17
+O00012,C00005,Credit Card,Processing,21-Feb-17,21-Feb-17,,,
